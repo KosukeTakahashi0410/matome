@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6417],{9088:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/matme/blog/tags/facebook","allTagsPath":"/matme/blog/tags","count":1,"unlisted":false}')}}]);
