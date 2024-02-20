@@ -38,15 +38,13 @@ const config: Config = {
           routeBasePath: "/",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/KosukeTakahashi0410/matome/tree/main/docs",
+          editUrl: "https://github.com/KosukeTakahashi0410/matome/tree/main",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/KosukeTakahashi0410/matome/tree/main/blogs",
+          editUrl: "https://github.com/KosukeTakahashi0410/matome/tree/main",
         },
         theme: {
           customCss: "./src/css/custom.css",
