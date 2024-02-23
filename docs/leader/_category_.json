@@ -1,0 +1,10 @@
+{
+  "label": "リーダーについて",
+  "position": 50,
+  "link": {
+    "type": "generated-index"
+  },
+  "customProps": {
+    "description": "リーダーについての目次です"
+  }
+}
