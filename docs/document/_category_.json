@@ -1,0 +1,10 @@
+{
+  "label": "資料について",
+  "position": 50,
+  "link": {
+    "type": "generated-index"
+  },
+  "customProps": {
+    "description": "資料についての目次です"
+  }
+}
