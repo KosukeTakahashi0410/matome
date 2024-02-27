@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 
-# タスクに対しての考え方
+# タスクについて
